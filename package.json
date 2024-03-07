@@ -16,9 +16,9 @@
     "author": "epldlnwynn",
     "repository": {
         "type": "git",
-        "url": "https://github.com/epldlnwynn/shortcut-js"
+        "url": "https://github.com/XkondenX/tea-kondenx.git"
     },
-    "homepage": "https://github.com/epldlnwynn/shortcut-js/#readme",
+    "homepage": "https://github.com/XkondenX/tea-kondenx.git/#readme",
     "main": "index.js",
     "files": [
         "LICENSE",
